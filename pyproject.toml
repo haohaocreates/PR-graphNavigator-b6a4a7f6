@@ -1,0 +1,14 @@
+[project]
+name = "graphnavigator"
+description = "ComfyUI Web Extension for saving views and navigating graphs."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/rock-land/graphNavigator"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "graphNavigator"
+Icon = ""
